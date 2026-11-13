@@ -1,0 +1,19 @@
+[
+    {
+        "source_url" : "refs/heads/main/Insurance_StructuredData/Claim.csv",
+        "sink_folder" : "Claims",
+        "sink_file" : "claim.csv"
+    },
+    {
+         "source_url" : "refs/heads/main/Insurance_StructuredData/Customer.csv",
+        "sink_folder" : "Customer",
+        "sink_file" : "customer.csv"
+
+    },
+    {
+        "source_url" : "refs/heads/main/Insurance_StructuredData/Policy.csv",
+        "sink_folder" : "Policy",
+        "sink_file" : "policy.csv"
+
+    }
+]
